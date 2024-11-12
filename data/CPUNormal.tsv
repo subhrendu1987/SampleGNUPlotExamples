@@ -1,0 +1,16 @@
+sl	Program Name	CPU-AVG	CPU-SD
+1	trace-fields	0.3	0.098142397
+2	hello-perf	0.14	0.05163977795
+3	stacksnoop	0.71	0.1449137675
+4	hello-perf-ns	0.15	0.05270462767
+5	sync-timing	0.76	0.0470510689
+6	strlen-count	0.82	0.0097617696
+7	trace-perf	0.2	0.06666666667
+8	undump	0.17	0.04830458915
+9	stack-buildid	0.15	0.05270462767
+10	dddos	0.27	0.0359378449
+11	tcpv4connect	0.34	0.075680975
+12	biolatpcts	0.12	0.04216370214
+13	strlen-hist	0.14	0.05163977795
+14	nflatency	0.27	0.0359378449
+15	vfsreadlat	0.19	0.05676462122

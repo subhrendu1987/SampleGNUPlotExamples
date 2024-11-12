@@ -1,0 +1,16 @@
+sl	Program Name	CPU-AVG	CPU-SD
+1	biolatpcts	0.17	0.04830458915
+2	dddos	0.98	0.6033241252
+3	hello_perf_output	0.17	0.04582575695
+4	hello_perf_output_using_ns	0.2	0.06666666667
+5	nflatency	0.6	0.4320493799
+6	stack_buildid_example	0.2	0.08164965809
+7	stacksnoop	0.89	0.05676462122
+8	strlen_count	1.16	0.08432740427
+9	strlen_hist	0.17	0.04830458915
+10	sync_timing	1.08	0.1032795559
+11	tcpv4connect	0.91	0.6624030327
+12	trace_fields	0.41	0.2685351208
+13	trace_perf_output	0.29	0.191195072
+14	undump	0.21	0.07378647874
+15	vfsreadlat	0.22	0.0632455532
