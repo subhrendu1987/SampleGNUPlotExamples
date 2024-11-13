@@ -1,9 +1,9 @@
 sl	ItemName	init	end 	perc	color
-1	Andriod5-7	0.0 	05.5 	05.5 	0.1
-2	Andriod8	05.5 	10.4 	04.9 	0.2
-3	Andriod9	10.4 	17.9 	07.5 	0.3
-4	Andriod10	17.9 	29.7 	11.8 	0.4
-5	Andriod11	29.7 	49.0 	19.3 	0.5
-6	Andriod12	49.0 	65.4	16.4 	0.6
-7	Andriod13	65.4 	87.8 	22.4 	0.7
-8	Andriod14	87.8 	100		12.2 	0.8
+1	Andriod-5,6,7	0.0 	05.5 	05.5 	0.1
+2	Andriod-8	05.5 	10.4 	04.9 	0.2
+3	Andriod-9	10.4 	17.9 	07.5 	0.3
+4	Andriod-10	17.9 	29.7 	11.8 	0.4
+5	Andriod-11	29.7 	49.0 	19.3 	0.5
+6	Andriod-12	49.0 	65.4	16.4 	0.6
+7	Andriod-13	65.4 	87.8 	22.4 	0.7
+8	Andriod-14	87.8 	100		12.2 	0.8
